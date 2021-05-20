@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlanCorn
 - 👀 I’m interested in Anime
-- 🌱 I’m currently learning git
+- 🌱 I’m currently working on minecraft mod development
 - 💞️ I’m looking to collaborate on learning programing
 - 📫 How to reach me :1561206831@qq.com
 
