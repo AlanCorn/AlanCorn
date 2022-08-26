@@ -3,7 +3,7 @@
 - 🌱 学习！学习！学习！
 - ✉️ 邮箱：AlanCorn_02@foxmail.com
 - 📫 邮箱：kanbaraakihitomirai@gmail.com
-- 😊Telegram：[AlanCorn_02](https://t.me/AlanCorn_02)
+- 😊Telegram：[AlanCorn_Bot](https://t.me/alancorn_msg_bot)
 - 📢Channel:[AlanCorn的不妙屋🍭](https://t.me/AlanCorn_Share)
 <!---
 AlanCorn/AlanCorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
