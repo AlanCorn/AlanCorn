@@ -10,9 +10,10 @@
 [![Arch Linux](https://img.shields.io/static/v1?style=flat-square&message=Arch+Linux&color=1793D1&logo=Arch+Linux&logoColor=FFFFFF&label=)](https://archlinux.org)
 [![Windows 11](https://img.shields.io/static/v1?style=flat-squar&message=Windows+11&color=0078D4&logo=Windows+11&logoColor=FFFFFF&label=)](https://www.microsoft.com/windows/get-windows-10)
 
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/IDE-PyCharm-blue?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
-[![](https://img.shields.io/badge/IDE-Intellij%20Idea-red?style=flat-square&logo=intellij%20idea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
+[![](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)]()
+[![](https://img.shields.io/badge/PyCharm-blue?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
+[![](https://img.shields.io/badge/Intellij%20Idea-red?style=flat-square&logo=intellij%20idea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
