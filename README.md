@@ -3,9 +3,10 @@
 - 👋 Hi, I’m @AlanCorn
 - 👀 手残音游人，老番收割机
 - 🌱 学习！学习！学习！
-- ✉️ 邮箱：AlanCorn@duck.com
-- 😊Telegram：[AlanCorn_Bot](https://t.me/alancorn_msg_bot)
-- 📢Channel:[AlanCorn的不妙屋🍭](https://t.me/AlanCorn_Share)
+- ✉️ 邮箱: AlanCorn@duck.com
+- ✍ Blog: [AlanCorn's Blog](https://alancorn.github.io/)
+- 😊 Telegram: [AlanCorn_Bot](https://t.me/alancorn_msg_bot)
+- 📢 Channel: [AlanCorn的不妙屋🍭](https://t.me/AlanCorn_Share)
 
 [![Arch Linux](https://img.shields.io/static/v1?style=flat-square&message=Arch+Linux&color=1793D1&logo=Arch+Linux&logoColor=FFFFFF&label=)](https://archlinux.org)
 [![Windows 11](https://img.shields.io/static/v1?style=flat-squar&message=Windows+11&color=0078D4&logo=Windows+11&logoColor=FFFFFF&label=)](https://www.microsoft.com/windows/get-windows-10)
